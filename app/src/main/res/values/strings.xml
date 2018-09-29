@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YourResult</string>
+    <string name="todo">TODO</string>
+    <string name="ssc">SSC</string>
+    <string name="hsc">HSC</string>
+    <string name="diploma">Diploma</string>
+    <string name="honors">Honours</string>
+</resources>
